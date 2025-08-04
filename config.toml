@@ -1,6 +1,6 @@
-baseurl = "https://example.com"
-title = "Academic"
-copyright = "&copy; 2016 Your Name"
+baseurl = "https://tahseenb.github.io"
+title = "Ahmed Tahseen Minhaz."
+copyright = "&copy; 2024 Ahmed Tahseen Minhaz"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -19,16 +19,16 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
-  organization = "Stanford University"
-  organization_url = ""
+  name = "Ahmed Tahseen Minhaz"
+  role = "Data Scientist"
+  organization = "Philips IGT-D"
+  organization_url = "https://www.philips.com/healthcare/solutions/igtd"
   avatar = "portrait.jpg"
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  email = "tahseenb@gmail.com"
+  address = "Philips IGT-D, Plymouth, MN, USA"
+  office_hours = "Email for appointment"
+  phone = ""
+  skype = ""
   telegram = ""
 
   # Enable Keybase in Contact section by entering your keybase.io username.
