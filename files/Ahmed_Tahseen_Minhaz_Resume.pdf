@@ -1,0 +1,214 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 5618 >>
+stream
+BT
+/F1 12 Tf
+1 0 0 1 72 720 Tm
+(Ahmed Tahseen Minhaz) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Phone: 216-334-0722 | Email: tahseenminhaz92@gmail.com) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(3795 Washington Park Blvd, Cleveland, OH 44105) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Professional Summary) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Experienced ML engineer with a proven track record in Gen AI, Data Science, and ML, seeking to leverage technical expertise to drive strategic initiatives and deliver innovative solutions. Dedicated to advancing product capabilities, improving customer experience, and optimizing business efficiency through the application of cutting-edge AI technologies.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Education) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(PhD, Biomedical Engineering \(2024\), Case Western Reserve University) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Dissertation: AI and 3D imaging of the eye) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(M.Sc., Electrical and Electronic Engineering \(2018\), Bangladesh University of Engineering and Technology) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Thesis: Speech enhancement in wavelet domain based on generative adversarial network) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(B.Sc., Electrical and Electronic Engineering \(2016\), Bangladesh University of Engineering and Technology) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Thesis: Sleep apnea detection using EEG signal features) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Skills) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Strong problem-solving, communication and collaboration skills, with a track record of team management, scientific leadership, academic and technical writing \(patents, IRB, IACUC, NIH/DoD grants, FDA documents\).) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Proficient in statistics, machine learning, deep learning, computer vision, gen AI and image processing techniques.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Expertise in imaging physics, formation, reconstruction, enhancement, segmentation, quality assessment etc.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Experience with managing and analyzing large datasets, ensuring data quality and integrity.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Expertise in different imaging and signal modalities \(natural image, ultrasound, CT, X-ray, audio, bio-signals\)) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Programming: Python \(PyTorch, Keras/TensorFlow, OpenCV, scikit-learn, SciPy, NumPy, Pandas\), Parallel Computing \(CUDA, cuDNN\), MATLAB, C/C++, R, Cloud Platforms: AWS, GCP, Azure. ) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Data query, visualization, and control tools: SQL, Git, Excel, Tableau, Power BI, Amira, 3D Slicer, ITK/VTK, LabVIEW) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Research and Professional Experience) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Postdoctoral Research Fellow, BME) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Cleveland Clinic, OH     2024-) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Development of AI-driven tools for image segmentation and image quality improvement in clinical musculoskeletal and brain MR images.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Graduate Research Assistant, Biomedical Imaging Laboratory) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Case Western Reserve University, Cleveland, OH                    2018-2024) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Led development, installation, calibration, quality assessment of novel 3D ultrasound imaging system for improved eye disease diagnosis, treatment planning, and assessment. \(https://doi.org/10.1167/tvst.10.3.11\)) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Developed novel image enhancement approach using GAN for real-time clinical applications in 3D medical imaging. \(https://doi.org/10.1117/12.2582128\)) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Developed robust image segmentation technique for ciliary body assessment, enabling new clinical applications. \(https://doi.org/10.1167/tvst.11.10.3\)) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Developed whole eye imaging and analysis of intraocular foreign body using 3D ultrasound \(https://doi.org/10.1117/12.3006195\)) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Developed end-to-end deep neural network approach for tuning-free non-contrast ultrasound micro-vascular imaging. \(https://doi.org/10.1109/IUS54386.2022.9958473\)) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Machine Learning Engineer) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Semion Inc., San Francisco, CA,                              2016-2018) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Developed and deployed custom machine learning models for computer vision and NLP algorithms for Chest X-ray screening, resulting in improved performance and efficiency. \(https://arxiv.org/abs/1705.09850\)) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Collaborated with multi-disciplinary product development teams in fast paced start-up setting to identify performance improvement opportunities and integrate trained models.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Conducted data ingestion, processing, and model evaluation to optimize algorithm performance.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Utilized cloud-based data storage and processing technologies for handling large datasets efficiently.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(References) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(David L. Wilson, PhD \(Professor, BME, CWRU\)) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Mahdi Bayat, PhD \(Assistant Professor, EECS, CWRU\)) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Faruk H. Orge, MD, PhD \(Director of Pediatric Ophthalmology, CWRU and University Hospitals\)) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Leadership, Patents, and Publications) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Founder President, Bangladeshi Students Association at CWRU \(2019-2021\)) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(US Patent No. 20210383548A1. "Processing three-dimensional \(3D\) ultrasound images",) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Full publication list can be found at https://scholar.google.com/citations?user=RCw6ZF4AAAAJ) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000005911 00000 n 
+trailer << /Root 1 0 R /Size 6 >>
+startxref
+5981
+%%EOF
