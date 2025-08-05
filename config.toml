@@ -1,5 +1,5 @@
-baseurl = "https://example.com"
-title = "Academic"
+baseurl = "https://chatgpt.openai.com"
+title = "ChatGPT"
 copyright = "&copy; 2016 Your Name"
 theme = "academic"
 enableEmoji = true
@@ -19,12 +19,12 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
-  organization = "Stanford University"
-  organization_url = ""
+  name = "ChatGPT"
+  role = "AI Language Model"
+  organization = "OpenAI"
+  organization_url = "https://openai.com"
   avatar = "portrait.jpg"
-  email = "test@example.org"
+  email = "chatgpt@openai.com"
   address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "888 888 88 88"
@@ -125,22 +125,17 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:chatgpt@openai.com"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
-
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://twitter.com/OpenAI"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "https://github.com/openai"
 
 
 # Navigation Links
