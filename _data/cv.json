@@ -32,14 +32,28 @@
   },
   "work": [
     {
-      "company": "Biomedical Imaging Laboratory",
-      "position": "Aug 2018 - May 2024: Research Assistant",
+      "company": "Cleveland Clinic",
+      "position": "Postdoctoral Research Fellow",
       "website": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Case Western Reserve University",
+        "Developing AI-based models for image segmentation, enhancement, and radiomics analysis in musculoskeletal and neuroimaging applications.",
+        "Implementing advanced quantitative imaging and deep learning techniques to improve diagnostic accuracy and patient care.",
+        "Collaborating with multidisciplinary teams to integrate AI-driven image quality improvement algorithms into clinical workflows",
+        "Managing and analyzing large-scale medical imaging datasets to ensure high-quality data governance and compliance with HIPAA/FDA guidelines.",
+        "Supervisor: Dr. Xiaojuan Li, Dr. Nukio Nakamura"
+      ]
+    },
+    {
+      "company": "Case Western Reserve University",
+      "position": "Research Assistant",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
         "Led development, installation, calibration, quality assessment of novel 3D ultrasound imaging system for improved eye disease diagnosis, treatment planning, and assessment.",
         "Designed image preprocessing, annotation, and storage solutions for large imaging datasets.",
         "Developed novel image enhancement approach using GAN for real-time clinical applications in 3D medical imaging.",
@@ -47,6 +61,19 @@
         "Developed whole eye imaging and analysis of intraocular foreign body using CT and 3D ultrasound",
         "Developed end-to-end deep neural network approach for tuning-free non-contrast ultrasound micro-vascular imaging.",
         "Supervisor: Dr. David L. Wilson"
+      ]
+    },
+    {
+      "company": "Semion Inc.",
+      "position": "Machine Learning Engineer",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Developed and deployed custom machine learning models for computer vision and NLP algorithms for Chest X-ray screening, resulting in improved performance and efficiency.",
+        "Collaborated with multi-disciplinary product development teams in fast paced start-up setting to identify performance improvement opportunities and integrate trained models.",
+        "Built cloud-based AI infrastructure for large-scale medical image processing"
       ]
     }
   ],

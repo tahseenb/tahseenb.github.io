@@ -17,8 +17,7 @@ Education
 
 Work experience
 ======
-* Aug 2024 - May 2025: Postdoctoral Research Fellow
-  * Cleveland Clinic
+* Postdoctoral Research Fellow, Cleveland Clinic, Aug 2024 - May 2025
   * Developing AI-based models for image segmentation, enhancement, and radiomics analysis in musculoskeletal and neuroimaging applications.
   * Implementing advanced quantitative imaging and deep learning techniques to improve diagnostic accuracy and patient care.
   * Collaborating with multidisciplinary teams to integrate AI-driven image quality improvement algorithms into clinical workflows
@@ -26,8 +25,7 @@ Work experience
 
   * Supervisor: Dr. Xiaojuan Li, Dr. Nukio Nakamura
 
-* Aug 2018 - May 2024: Research Assistant, Biomedical Imaging Laboratory
-  * Case Western Reserve University
+* Research Assistant, Case Western Reserve University, Aug 2018 - May 2024
   * Led development, installation, calibration, quality assessment of novel 3D ultrasound imaging system for improved eye disease diagnosis, treatment planning, and assessment.
   * Designed image preprocessing, annotation, and storage solutions for large imaging datasets. 
   * Developed novel image enhancement approach using GAN for real-time clinical applications in 3D medical imaging.
@@ -38,8 +36,7 @@ Work experience
   * Supervisor: Dr. David L. Wilson
 
 
-* Nov 2016 - Feb 2018: Machine Learning Engineer
-  * Semion Inc.
+* Machine Learning Engineer, Semion Inc., Nov 2016 - Feb 2018
   * Developed and deployed custom machine learning models for computer vision and NLP algorithms for Chest X-ray screening, resulting in improved performance and efficiency.
   * Collaborated with multi-disciplinary product development teams in fast paced start-up setting to identify performance improvement opportunities and integrate trained models.
   * Built cloud-based AI infrastructure for large-scale medical image processing
