@@ -11,35 +11,51 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Biomedical Engineering, Case Western Reserve University, 2024
+* M.S. in Electrical Enngineering, Bangladesh University of Engineering and Technology, 2018
+* B.S. in Electrical Enngineering, Bangladesh University of Engineering and Technology, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Aug 2024 - May 2025: Postdoctoral Research Fellow
+  * Cleveland Clinic
+  * Developing AI-based models for image segmentation, enhancement, and radiomics analysis in musculoskeletal and neuroimaging applications.
+  * Implementing advanced quantitative imaging and deep learning techniques to improve diagnostic accuracy and patient care.
+  * Collaborating with multidisciplinary teams to integrate AI-driven image quality improvement algorithms into clinical workflows
+  * Managing and analyzing large-scale medical imaging datasets to ensure high-quality data governance and compliance with HIPAA/FDA guidelines. 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Dr. Xiaojuan Li, Dr. Nukio Nakamura
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug 2018 - May 2024: Research Assistant, Biomedical Imaging Laboratory
+  * Case Western Reserve University
+  * Led development, installation, calibration, quality assessment of novel 3D ultrasound imaging system for improved eye disease diagnosis, treatment planning, and assessment.
+  * Designed image preprocessing, annotation, and storage solutions for large imaging datasets. 
+  * Developed novel image enhancement approach using GAN for real-time clinical applications in 3D medical imaging.
+  * Developed robust image segmentation technique for ciliary body assessment, enabling new clinical applications.
+  * Developed whole eye imaging and analysis of intraocular foreign body using CT and 3D ultrasound
+  * Developed end-to-end deep neural network approach for tuning-free non-contrast ultrasound micro-vascular imaging.
+
+  * Supervisor: Dr. David L. Wilson
+
+
+* Nov 2016 - Feb 2018: Machine Learning Engineer
+  * Semion Inc.
+  * Developed and deployed custom machine learning models for computer vision and NLP algorithms for Chest X-ray screening, resulting in improved performance and efficiency.
+  * Collaborated with multi-disciplinary product development teams in fast paced start-up setting to identify performance improvement opportunities and integrate trained models.
+  * Built cloud-based AI infrastructure for large-scale medical image processing
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* Programming
+  * Python (NumPy, OpenCV, scikit-image, PyTorch, TensorFlow), C/C++, MATLAB
+* Image Processing:
+  * Segmentation, classification, registration, reconstruction, inverse problems, denoising, radiomics
+* Imaging Modality:
+  * Ultrasound, MRI, CT
+* Machine Learning & AI
+  * CNNs, GANs, Transformers, Diffusion Models, Radiomics, Statistical Modeling, Bayesian Statistics, Causal Inference, Graph Neural Networks, Survival Analysis, Longitudinal Analysis
 
 Publications
 ======
@@ -47,7 +63,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -57,8 +73,13 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Founder President, Bangladeshi Students Association at CWRU (2019-2021)
+
+Patents
+======
+* US Patent No. 20210383548A1. "Processing three-dimensional (3D) ultrasound images"
+

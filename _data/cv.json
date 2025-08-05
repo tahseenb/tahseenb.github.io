@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Tahseen Minhaz",
+    "email": "tahseenminhaz92@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://tahseenb.github.io",
+    "summary": "Currently employed at Philips. Data Scientist",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Minnesota",
       "countryCode": "US",
       "region": ""
     },
@@ -16,25 +16,53 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=RCw6ZF4AAAAJ"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0002-2181-4180"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "tahseenb",
+        "url": "https://github.com/tahseenb"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Biomedical Imaging Laboratory",
+      "position": "Aug 2018 - May 2024: Research Assistant",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Case Western Reserve University",
+        "Led development, installation, calibration, quality assessment of novel 3D ultrasound imaging system for improved eye disease diagnosis, treatment planning, and assessment.",
+        "Designed image preprocessing, annotation, and storage solutions for large imaging datasets.",
+        "Developed novel image enhancement approach using GAN for real-time clinical applications in 3D medical imaging.",
+        "Developed robust image segmentation technique for ciliary body assessment, enabling new clinical applications.",
+        "Developed whole eye imaging and analysis of intraocular foreign body using CT and 3D ultrasound",
+        "Developed end-to-end deep neural network approach for tuning-free non-contrast ultrasound micro-vascular imaging.",
+        "Supervisor: Dr. David L. Wilson"
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Case Western Reserve University",
+      "area": "Ph.D in Biomedical Engineering",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2024",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Bangladesh University of Engineering and Technology",
+      "area": "M.S. in Electrical Enngineering",
       "studyType": "",
       "startDate": "",
       "endDate": "2018",
@@ -42,20 +70,11 @@
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Bangladesh University of Engineering and Technology",
+      "area": "B.S. in Electrical Enngineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "endDate": "2016",
       "gpa": null,
       "courses": []
     }
@@ -66,32 +85,39 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Clinical 3D imaging of the anterior segment with ultrasound biomicroscopy",
+      "publisher": "Translational Vision Science &amp; Technology",
+      "releaseDate": "2021-03-01",
+      "website": "https://tvst.arvojournals.org/arvo/content_public/journal/tvst/938517/i2164-2591-10-3-11_1615374609.64483.pdf",
+      "summary": "Three-dimensional UBM (3D-UBM) imaging of the anterior segment can be used to enable unique visualization and quantification of anterior segment structures."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Deep Learning Segmentation, Visualization, and Automated 3D Assessment of Ciliary Body in 3D Ultrasound Biomicroscopy Images",
+      "publisher": "Translational Vision Science &amp; Technology",
+      "releaseDate": "2022-10-03",
+      "website": "https://tvst.arvojournals.org/arvo/content_public/journal/tvst/938607/i2164-2591-11-10-3_1664608907.98555.pdf",
+      "summary": "This paper aimed to develop a fully automated deep learning ciliary body segmentation and assessment approach in three-dimensional ultrasound biomicroscopy (3D-UBM) images."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "End-to-end deep learning for tuning-free non-contrast ultrasound microvessel imaging",
+      "publisher": "2022 IEEE International Ultrasonics Symposium (IUS)",
+      "releaseDate": "2022-12-01",
+      "website": "https://tahseenb.github.io/files/paper5.pdf",
+      "summary": "This paper presents a deep learning-based method using a 2D U-Net to accelerate and generalize microvessel imaging from non-contrast ultrasound by removing tissue clutter more efficiently than traditional SVD approaches."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Assessment of intraocular foreign body using high resolution 3D ultrasound imaging",
+      "publisher": "Scientific Reports",
+      "releaseDate": "2024-05-26",
+      "website": "https://www.nature.com/articles/s41598-024-62362-y.pdf",
+      "summary": " This paper proposed a novel whole-eye 3D ophthalmic ultrasound B-scan (3D-UBS) system for automating image acquisition and improved 3D visualization for detecting intraocular foreign bodies."
+    },
+    {
+      "name": "Improved biometric quantification in 3D ultrasound biomicroscopy via generative adversarial networks-based image enhancement",
+      "publisher": "Journal of Imaging Informatics in Medicine",
+      "releaseDate": "2025-04-10",
+      "website": "https://tahseenb.github.io/files/paper4.pdf",
+      "summary": " This paper addressed the limitations of inexpensive, high-frequency ultrasound biomicroscopy (UBM) systems in visualizing small ocular structures and anatomical landmarks, especially outside the focal area, by improving image quality and visibility of important ocular structures for clinical ophthalmology applications."
     }
   ],
   "presentations": [
