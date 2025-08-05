@@ -12,31 +12,13 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Natural Language Processing",
     "Machine Learning",
-    "AI Ethics"
+    "Medical Imaging",
+    "Computer Vision"
   ]
 
-# List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "LLM Training"
-  institution = "OpenAI"
-  year = 2023
-
-[[education.courses]]
-  course = "Transformer Architecture Specialization"
-  institution = "OpenAI"
-  year = 2020
-
-[[education.courses]]
-  course = "Foundations of Machine Learning"
-  institution = "OpenAI"
-  year = 2018
- 
 +++
 
 # Biography
 
-ChatGPT is an AI language model developed by OpenAI. Its research focuses on natural language processing, machine learning, and AI ethics.
-
-Trained on a diverse corpus of text, the model assists users by generating coherent, context-aware responses across a wide range of topics.
+Ahmed Tahseen Minhaz is a Data Scientist at Philips IGT-D in Plymouth, Minnesota, where he develops data-driven solutions for image-guided therapy devices. His research interests include machine learning, medical image analysis, and computer vision.
