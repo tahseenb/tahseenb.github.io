@@ -26,6 +26,17 @@ author_profile: true
       {% include archive-single.html %}
     {% endfor %}
   {% endfor %}
+  {% assign other_title_shown = false %}
+  {% for post in site.publications reversed %}
+    {% if post.category %}
+      {% continue %}
+    {% endif %}
+    {% unless other_title_shown %}
+      <h2>Other Publications</h2><hr />
+      {% assign other_title_shown = true %}
+    {% endunless %}
+    {% include archive-single.html %}
+  {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
