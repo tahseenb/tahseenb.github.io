@@ -7,18 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I’m **Ahmed Tahseen Minhaz**, a data scientist and AI researcher currently working at **Philips Image Guided Therapy Devices (IGTD)**. I specialize in the application of machine learning and deep learning techniques in medical imaging and life sciences, with a focus on diagnostics, therapeutics, and clinical decision support.
+Welcome! I am **Ahmed Tahseen Minhaz**, a data scientist and AI researcher currently working at **Philips - Image Guided Therapy Devices (IGTD)**. I specialize in the application of machine learning and deep learning techniques in medical imaging and life sciences, with a focus on diagnostics, therapeutics, and clinical decision support.
 
-With over 8 years of experience across academia and industry, I’ve developed robust AI systems for medical imaging, including 3D ultrasound, CT, and X-ray modalities. I’m especially passionate about integrating cutting-edge models — CNNs, GANs, Transformers, Diffusion Models — into real-world healthcare workflows, ensuring both clinical impact and computational efficiency.
-
-This website is powered by the [Academic Pages](https://github.com/academicpages/academicpages.github.io) Jekyll template and hosted freely via [GitHub Pages](https://pages.github.com/). The template supports a data-driven personal website designed specifically for academics and researchers — enabling dynamic rendering of publications, talks, teaching materials, and a CV. 
+With over 8 years of experience across academia and industry, I’ve developed robust AI systems for medical imaging, including 3D ultrasound, CT, and X-ray modalities. I’m especially passionate about integrating cutting-edge models into real-world healthcare workflows, ensuring both clinical impact and computational efficiency.
 
 Explore my site to learn more about:
 - My [research and publications](./publications/)
-- [Talks and presentations](./talks/)
-- [Projects and collaborations](./portfolio/)
 - A dynamically generated [CV](./cv/)
-- Occasional [blog posts](./posts/) and technical deep-dives
 
 ---
 
@@ -43,15 +38,15 @@ Additionally, scripts such as [talkmap.ipynb](https://github.com/academicpages/a
 
 --- -->
 
-🧠 About Me
+About Me
 ======
 
-- 🔬 **Current Role**: Data Scientist, Philips IGTD  
-- 🎓 **PhD, Biomedical Engineering** – Case Western Reserve University (2024)  
-- 📈 **Research Areas**: AI/ML for medical imaging 
-- 💡 **Skills**: PyTorch, TensorFlow, OpenCV, GNNs, Diffusion, Bayesian methods, Radiomics  
-- 🧪 **Past Affiliations**: Cleveland Clinic, Case Western, Semion Inc.  
-- 📚 [Google Scholar Profile](https://scholar.google.com/citations?user=RCw6ZF4AAAAJ)
+- **Current Role**: Data Scientist, Philips IGTD  
+- **PhD, Biomedical Engineering** – Case Western Reserve University (2024)  
+- **Research Areas**: AI/ML for medical imaging 
+- **Skills**: PyTorch, TensorFlow, OpenCV, GNNs, Diffusion, Bayesian methods, Radiomics  
+- **Past Affiliations**: Cleveland Clinic, Case Western, Semion Inc.  
+- [Google Scholar Profile](https://scholar.google.com/citations?user=RCw6ZF4AAAAJ)
 
 ---
 
