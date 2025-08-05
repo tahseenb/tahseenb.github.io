@@ -1,6 +1,7 @@
 ---
 title: "Improved biometric quantification in 3D ultrasound biomicroscopy via generative adversarial networks-based image enhancement"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-04-10-paper-title-number-4
 excerpt: ' This paper addressed the limitations of inexpensive, high-frequency ultrasound biomicroscopy (UBM) systems in visualizing small ocular structures and anatomical landmarks, especially outside the focal area, by improving image quality and visibility of important ocular structures for clinical ophthalmology applications.'
 date: 2025-04-10
