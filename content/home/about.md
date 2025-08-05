@@ -16,7 +16,7 @@ weight = 1
     "Medical Imaging",
     "Computer Vision"
   ]
- 
+
 +++
 
 # Biography
