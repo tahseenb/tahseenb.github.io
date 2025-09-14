@@ -1,6 +1,15 @@
 ---
+layout: splash
 permalink: /
 title: "Tahseen Minhaz | AI Researcher & Data Scientist"
+header:
+  overlay_image: /images/500x300.png
+  overlay_filter: 0.5
+  actions:
+    - label: "View My CV"
+      url: /cv/
+    - label: "See Portfolio"
+      url: /portfolio/
 author_profile: true
 redirect_from:
   - /about/
