@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tahseenb.github.io/sitemap.xml
