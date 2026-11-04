@@ -2,24 +2,14 @@
 
 Personal site of Ahmed Tahseen Minhaz: [tahseenb.github.io](https://tahseenb.github.io).
 
-Plain HTML, CSS and a little JavaScript. No build step and no dependencies.
+Static HTML built originally with the Hugo Academic theme. There is no build step now: edit `index.html` directly and push. GitHub Pages serves the `master` branch root.
 
 ```
-index.html          the whole site (one page)
-404.html            not-found page
-assets/             styles.css, site.js, photo, favicon
-files/              paper PDFs and slides
-cv/ publications/   redirects from the old site's URLs
+index.html               the homepage (about, experience, projects, publications, contact)
+css/ js/ fonts/ img/     theme assets and portrait
+project/ publication/    older detail pages from the Hugo build
+files/                   paper PDFs and slides
+about/ cv/ resume/ publications/   redirects to homepage sections
 ```
 
-## Edit
-
-Change `index.html` and push. GitHub Pages serves the `master` branch root.
-
-## Preview locally
-
-```sh
-python3 -m http.server 8000
-```
-
-Then open http://localhost:8000.
+Preview locally: `python3 -m http.server` and open http://localhost:8000.
